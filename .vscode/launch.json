@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DojosurveyApplication<dojosurvey>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.codingdojo.dojosurvey.dojosurvey.DojosurveyApplication",
+            "projectName": "dojosurvey",
+            "args": ""
+        }
+    ]
+}
